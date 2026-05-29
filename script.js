@@ -2,7 +2,7 @@ const images = [
   { file: "edwqwes1.JPG", cat: "edes", title: "Mákosguba torta" },
   { file: "edes2.jpg", cat: "edes", title: "Epres süti" },
   { file: "edes32.jpg", cat: "edes", title: "Térkő guba" },
-  { file: "edes2.jpg", cat: "edes", title: "Epres süti" },
+  { file: "edes3.jpg", cat: "edes", title: "Epres süti" },
   { file: "edes2.jpg", cat: "edes", title: "Epres süti" },
   { file: "edes2.jpg", cat: "edes", title: "Epres süti" },
   { file: "edes2.jpg", cat: "edes", title: "Epres süti" },
