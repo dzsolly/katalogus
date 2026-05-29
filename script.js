@@ -1,8 +1,8 @@
 const images = [
-  { file: "edwqwes1.JPG", cat: "edes", title: "Mákosguba torta" },
+  { file: "edes1.jpg", cat: "edes", title: "Mákosguba torta" },
   { file: "edes2.jpg", cat: "edes", title: "Epres süti" },
   { file: "edes32.jpg", cat: "edes", title: "Térkő guba" },
-  { file: "edes3.jpg", cat: "edes", title: "Epres süti" },
+  { file: "edes2.jpg", cat: "edes", title: "Epres süti" },
   { file: "edes2.jpg", cat: "edes", title: "Epres süti" },
   { file: "edes2.jpg", cat: "edes", title: "Epres süti" },
   { file: "edes2.jpg", cat: "edes", title: "Epres süti" },
@@ -94,7 +94,7 @@ tabs.forEach(tab => {
 closeBtn.onclick = () => lightbox.style.display = "none";
 
 lightbox.onclick = (e) => {
-  if (e.target !== lightboxImg) {
+  if (e.target !== lightboxImg && !e.target.classList.contains("arrow")) {
     lightbox.style.display = "none";
   }
 };
