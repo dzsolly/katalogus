@@ -1,12 +1,8 @@
 const images = [
-  { file: "edes1.jpg", cat: "edes", title: "Mákosguba torta" },
-  { file: "edes2.jpg", cat: "edes", title: "Epres süti" },
-  { file: "edes32.jpg", cat: "edes", title: "Térkő guba" },
-  { file: "edes2.jpg", cat: "edes", title: "Epres süti" },
-  { file: "edes2.jpg", cat: "edes", title: "Epres süti" },
-  { file: "edes2.jpg", cat: "edes", title: "Epres süti" },
-  { file: "edes2.jpg", cat: "edes", title: "Epres süti" },
-  { file: "edes2.jpg", cat: "edes", title: "Epres süti" },
+  { file: "edes1.jpg", cat: "edes", title: "Fekete rózsa" },
+  { file: "edes2.jpg", cat: "edes", title: "Csokis" },
+  { file: "edes3.jpg", cat: "edes", title: "Mézes zserbó" },
+
 
   { file: "sos1.jpg", cat: "sos", title: "Sajtos pogácsa" },
   { file: "sos2.jpg", cat: "sos", title: "Tepertős pogácsa" },
