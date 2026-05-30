@@ -2,6 +2,7 @@ const images = [
   { file: "edes1.jpg", cat: "edes", title: "Fekete rózsa" },
   { file: "edes2.jpg", cat: "edes", title: "Selyemkocka (többféle ízben)" },
   { file: "edes3.jpg", cat: "edes", title: "Diós zserbó" },
+  { file: "edes4.jpg", cat: "edes", title: "Mézes krémes" },
 
 
   { file: "sos1.jpg", cat: "sos", title: "Sajtos pogácsa" },
