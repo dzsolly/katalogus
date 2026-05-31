@@ -12,7 +12,7 @@ const images = [
 
   { file: "torta1.jpg", cat: "torta", title: "Gesztenye torta" },
   { file: "torta2.jpg", cat: "torta", title: "Mákosguba torta" }
-  { file: "torta3.jpg", cat: "torta", title: "Erdei gyümölcsös fehércsokis túrótorta" }
+  { file: "torta3.jpg", cat: "torta", title: "Erdei gyümölcsös túrótorta" }
 ];
 
 const gallery = document.getElementById("gallery");
