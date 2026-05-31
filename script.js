@@ -11,8 +11,8 @@ const images = [
    { file: "sos3.jpg", cat: "sos", title: "Sajtos pogácsa" },
 
   { file: "torta1.jpg", cat: "torta", title: "Gesztenye torta" },
-  { file: "torta2.jpg", cat: "torta", title: "Mákosguba torta" }
-  { file: "torta3.jpg", cat: "torta", title: "Erdei gyümölcsös túrótorta" }
+  { file: "torta2.jpg", cat: "torta", title: "Mákosguba torta" },
+  { file: "torta3.jpg", cat: "torta", title: "Erdei gyümölcsös fehércsokis túrótorta" },
 ];
 
 const gallery = document.getElementById("gallery");
