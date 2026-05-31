@@ -3,12 +3,14 @@ const images = [
   { file: "edes2.jpg", cat: "edes", title: "Selyemkocka (többféle ízben)" },
   { file: "edes3.jpg", cat: "edes", title: "Diós zserbó" },
   { file: "edes4.jpg", cat: "edes", title: "Mézes krémes" },
+  { file: "edes5.jpg", cat: "edes", title: "Rákóczi túrós" },
 
 
-  { file: "sos1.jpg", cat: "sos", title: "Sajtos pogácsa" },
-  { file: "sos2.jpg", cat: "sos", title: "Tepertős pogácsa" },
+  { file: "sos1.jpg", cat: "sos", title: "Sajtos masni" },
+  { file: "sos2.jpg", cat: "sos", title: "Sajtos roló" },
+   { file: "sos3.jpg", cat: "sos", title: "Sajtos pogácsa" },
 
-  { file: "torta1.jpg", cat: "torta", title: "Gesztenyés torta" },
+  { file: "torta1.jpg", cat: "torta", title: "Gesztenye torta" },
   { file: "torta2.jpg", cat: "torta", title: "Mákosguba torta" }
 ];
 
