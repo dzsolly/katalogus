@@ -4,6 +4,7 @@ const images = [
   { file: "edes3.jpg", cat: "edes", title: "Diós zserbó" },
   { file: "edes4.jpg", cat: "edes", title: "Mézes krémes" },
   { file: "edes5.jpg", cat: "edes", title: "Rákóczi túrós" },
+  { file: "edes6.jpg", cat: "edes", title: "Mini linzer koszorú" },
 
 
   { file: "sos1.jpg", cat: "sos", title: "Sajtos masni" },
