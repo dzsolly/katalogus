@@ -5,6 +5,7 @@ const images = [
   { file: "edes4.jpg", cat: "edes", title: "Mézes krémes" },
   { file: "edes5.jpg", cat: "edes", title: "Rákóczi túrós" },
   { file: "edes6.jpg", cat: "edes", title: "Mini linzer koszorú" },
+  { file: "edes7.webp", cat: "edes", title: "Kókuszkocka" },
 
 
   { file: "sos1.jpg", cat: "sos", title: "Sajtos masni" },
@@ -15,6 +16,7 @@ const images = [
   { file: "torta2.jpg", cat: "torta", title: "Mákosguba torta" },
   { file: "torta3.jpg", cat: "torta", title: "Erdei gyümölcsös fehércsokis túrótorta" },
   { file: "torta4_1.jpg", cat: "torta", title: "Fagyitorta" },
+  { file: "torta5.webp", cat: "torta", title: "Oroszkrém torta" },
 ];
 
 const gallery = document.getElementById("gallery");
